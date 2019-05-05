@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.field {
+  margin: 50px auto;
+  width: 560px;
+  height: 560px;
+  background: #000;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.field_section {
+  width: 140px;
+  height: 140px;
+  background: #205749;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
